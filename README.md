@@ -1,4 +1,4 @@
-99HaskellProblems
-=================
+# Ninety-Nine Haskell Problems
 
-Solutions of 99 problems in Haskell
+
+My attempt to learn Haskell, see http://www.haskell.org/haskellwiki/99_questions
