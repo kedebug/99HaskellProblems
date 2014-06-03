@@ -1,4 +1,7 @@
-# Ninety-Nine Haskell Problems
+# Ninety-Nine Problems
 
 
-My attempt to learn Haskell, see http://www.haskell.org/haskellwiki/99_questions
+- Haskell version
+  - http://www.haskell.org/haskellwiki/99_questions
+- Scheme version
+  - http://community.schemewiki.org/?ninety-nine-scheme-problems
